@@ -1,7 +1,9 @@
 # chrome-blogmark-for-FE
 크롬 브라우저 북마크에 import 가능한 FE 개발자를 위한 기술 블로그 모음입니다.
 
-## 크롬 북마크에 import
+<br/>
+
+## 크롬 북마크에 import하는 방법
 [공식 가이드](https://support.google.com/chrome/answer/96816?hl=ko)
 
 1. 크롬 브라우저 우측 상단 더보기 아이콘 클릭
@@ -10,6 +12,8 @@
 4. [HTML 파일 북마크하기] 선택된 것 확인 후 파일 선택 클릭
 5. `bookmarks-tech.html` 파일 선택
 6. 북마크 > 가져온 북마크 > Tech Blog 추가된 것 확인
+
+<br/>
 
 ## 현재 북마크에 추가된 블로그 목록
 * [Naver D2](https://d2.naver.com/home)
@@ -41,6 +45,8 @@
   * [문동욱 | Evan Moon | Evans Library](https://evan-moon.github.io/)
   * [Channy's Blog](https://channy.creation.net/)
   * [Josh W Comeau](https://www.joshwcomeau.com/)
+
+<br/>
 
 ## Contribute
 해당 목록에 추가, 삭제 될 기술 블로그가 있다면 PR로 링크와 사유 요청해주세요.<br/>
