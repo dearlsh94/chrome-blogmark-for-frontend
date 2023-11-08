@@ -18,8 +18,9 @@
 ## 현재 북마크에 추가된 블로그 목록
 * [Naver D2](https://d2.naver.com/home)
 * [Naver Code](https://code.naver.com/main/)
-* [카카오엔터테인먼트 FE 기술 블로그](https://fe-developers.kakaoent.com/)
 * [카카오 Tech](https://tech.kakao.com/)
+* [카카오페이 기술 블로그](https://tech.kakaopay.com/)
+* [카카오엔터테인먼트 FE 기술 블로그](https://fe-developers.kakaoent.com/)
 * [LINE Engineering Blog](https://engineering.linecorp.com/ko/blog)
 * [우아한형제들 기술 블로그](https://techblog.woowahan.com/)
 * [배민다움 today](https://story.baemin.com/)
