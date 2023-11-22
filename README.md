@@ -47,6 +47,7 @@
   * [Channy's Blog](https://channy.creation.net/)
   * [Josh W Comeau](https://www.joshwcomeau.com/)
   * [재그지그의 개발 블로그](https://wormwlrm.github.io/)
+  * [kciter.so | devlog](https://kciter.so/)
 
 <br/>
 
