@@ -3,6 +3,7 @@
 ## v1.0.4
 ### Add Blog
 * TkDodo's blog
+* 김맥스 블로그
 
 ## v1.0.3
 ### Add Blog
