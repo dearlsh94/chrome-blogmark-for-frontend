@@ -1,5 +1,9 @@
 # Version History
 
+## v1.0.4
+### Add Blog
+* TkDodo's blog
+
 ## v1.0.3
 ### Add Blog
 * kciter.so | devlog

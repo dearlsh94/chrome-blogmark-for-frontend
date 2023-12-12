@@ -48,6 +48,7 @@
   * [Josh W Comeau](https://www.joshwcomeau.com/)
   * [재그지그의 개발 블로그](https://wormwlrm.github.io/)
   * [kciter.so | devlog](https://kciter.so/)
+  * [TkDodo's blog](https://tkdodo.eu/blog/)
 
 <br/>
 
