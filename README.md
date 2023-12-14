@@ -41,16 +41,16 @@
 * [Slack Engineering Blog](https://slack.engineering/)
 * [Spotify Engineering Blog](https://engineering.atspotify.com/)
 * 개인 블로그
-  * [JBEE.io](https://jbee.io/)
-  * [morethanmin blog](https://morethanmin.com/)
+  * [김종혁 | 김맥스 블로그](https://maxkim-j.github.io/)
   * [문동욱 | Evan Moon | Evans Library](https://evan-moon.github.io/)
-  * [Channy's Blog](https://channy.creation.net/)
-  * [Josh W Comeau](https://www.joshwcomeau.com/)
-  * [재그지그의 개발 블로그](https://wormwlrm.github.io/)
-  * [kciter.so | devlog](https://kciter.so/)
-  * [TkDodo's blog](https://tkdodo.eu/blog/)
-  * [김맥스 블로그](https://maxkim-j.github.io/)
-
+  * [유경상 | Ykss](https://ykss.netlify.app/)
+  * [윤석찬 | Channy's Blog](https://channy.creation.net/)
+  * [이상민 | morethanmin blog](https://morethanmin.com/)
+  * [이선협 | kciter.so | devlog](https://kciter.so/)
+  * [정종윤 | 재그지그의 개발 블로그](https://wormwlrm.github.io/)
+  * [한재엽 | JBEE.io](https://jbee.io/)
+  * [Dominik | TkDodo's blog](https://tkdodo.eu/blog/)
+  * [Josh | W Comeau](https://www.joshwcomeau.com/)
 <br/>
 
 ## Contribute

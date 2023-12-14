@@ -1,5 +1,10 @@
 # Version History
 
+## v1.0.5
+### Modify Blog
+- 개인 블로그 오름차순 순서 적용
+- 개인 블로그 본명 병기
+
 ## v1.0.4
 ### Add Blog
 * TkDodo's blog
