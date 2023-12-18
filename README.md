@@ -41,6 +41,7 @@
 * [Slack Engineering Blog](https://slack.engineering/)
 * [Spotify Engineering Blog](https://engineering.atspotify.com/)
 * 개인 블로그
+  * [김용찬 | yceffort](https://yceffort.kr/)
   * [김종혁 | 김맥스 블로그](https://maxkim-j.github.io/)
   * [문동욱 | Evan Moon | Evans Library](https://evan-moon.github.io/)
   * [유경상 | Ykss](https://ykss.netlify.app/)
