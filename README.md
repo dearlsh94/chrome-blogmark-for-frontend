@@ -44,6 +44,7 @@
   * [김용찬 | yceffort](https://yceffort.kr/)
   * [김종혁 | 김맥스 블로그](https://maxkim-j.github.io/)
   * [문동욱 | Evan Moon | Evans Library](https://evan-moon.github.io/)
+  * [변정훈 | Outsider's Dev Story](https://blog.outsider.ne.kr/)
   * [유경상 | Ykss](https://ykss.netlify.app/)
   * [윤석찬 | Channy's Blog](https://channy.creation.net/)
   * [이상민 | morethanmin blog](https://morethanmin.com/)
