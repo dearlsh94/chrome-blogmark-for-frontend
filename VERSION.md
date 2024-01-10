@@ -1,18 +1,21 @@
 # Version History
 
+## v1.0.9
+### Add Blog
+* 이동욱 | 기억보단 기록을 추가
+* 인파 | Inpa Dev 👨‍💻 추가
+
 ## v1.0.8
 ### Add Blog
-* Engineering Blog by Dale Seo 추가
-* 기억보단 기록을 추가
-* Inpa Dev 👨‍💻 추가
+* 서대영 | Engineering Blog by Dale Seo 추가
 
 ## v1.0.7
 ### Add Blog
-* Outsider's Dev Story 추가
+* 변정훈 | Outsider's Dev Story 추가
 
 ## v1.0.6
 ### Add Blog
-* yceffort
+* 김용찬 | yceffort
 
 ## v1.0.5
 ### Modify Blog
@@ -21,16 +24,16 @@
 
 ## v1.0.4
 ### Add Blog
-* TkDodo's blog
-* 김맥스 블로그
+* Dominik | TkDodo's blog
+* 김종혁 | 김맥스 블로그
 
 ## v1.0.3
 ### Add Blog
-* kciter.so | devlog
+* 이선협 | kciter.so | devlog
 
 ## v1.0.2
 ### Add Blog
-* 재그지그의 개발 블로그
+* 정종윤 | 재그지그의 개발 블로그
 
 ## v1.0.1
 ### Add Blog
@@ -63,8 +66,8 @@
 * Slack Engineering Blog
 * Spotify Engineering Blog
 * 개인 블로그
-  * JBEE.io
-  * morethanmin blog
+  * 한재엽 | JBEE.io
+  * 이상민 | morethanmin blog
   * 문동욱 | Evan Moon | Evans Library
-  * Channy's Blog
-  * Josh W Comeau
+  * 윤석찬 | Channy's Blog
+  * Josh | Josh W Comeau
