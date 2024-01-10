@@ -1,5 +1,11 @@
 # Version History
 
+## v1.0.8
+### Add Blog
+* Engineering Blog by Dale Seo 추가
+* 기억보단 기록을 추가
+* Inpa Dev 👨‍💻 추가
+
 ## v1.0.7
 ### Add Blog
 * Outsider's Dev Story 추가
