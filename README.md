@@ -54,8 +54,12 @@
   * [인파 | Inpa Dev 👨‍💻](https://inpa.tistory.com/)
   * [정종윤 | 재그지그의 개발 블로그](https://wormwlrm.github.io/)
   * [한재엽 | JBEE.io](https://jbee.io/)
+  * [Dan Abramov | overreacted](https://overreacted.io/)
   * [Dominik | TkDodo's blog](https://tkdodo.eu/blog/)
   * [Josh | W Comeau](https://www.joshwcomeau.com/)
+  * [Kent C. Dodds](https://kentcdodds.com/)
+  * [Leerob | Lee Robinson](https://leerob.io/)
+  * [The Kent C. Dodds Blog](https://kentcdodds.com/blog)
 <br/>
 
 ## Contribute

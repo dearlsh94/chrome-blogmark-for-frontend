@@ -1,17 +1,24 @@
 # Version History
 
+## v1.0.10
+### Add Blog
+* Dan Abramov | overreacted
+* Kent C. Dodds
+* Leerob | Lee Robinson
+* The Kent C. Dodds Blog
+
 ## v1.0.9
 ### Add Blog
-* 이동욱 | 기억보단 기록을 추가
-* 인파 | Inpa Dev 👨‍💻 추가
+* 이동욱 | 기억보단 기록을
+* 인파 | Inpa Dev 👨‍💻
 
 ## v1.0.8
 ### Add Blog
-* 서대영 | Engineering Blog by Dale Seo 추가
+* 서대영 | Engineering Blog by Dale Seo
 
 ## v1.0.7
 ### Add Blog
-* 변정훈 | Outsider's Dev Story 추가
+* 변정훈 | Outsider's Dev Story
 
 ## v1.0.6
 ### Add Blog
