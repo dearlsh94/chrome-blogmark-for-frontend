@@ -53,6 +53,7 @@
   * [이선협 | kciter.so | devlog](https://kciter.so/)
   * [인파 | Inpa Dev 👨‍💻](https://inpa.tistory.com/)
   * [정종윤 | 재그지그의 개발 블로그](https://wormwlrm.github.io/)
+  * [테오 | teo (teo.yu) - velog](https://velog.io/@teo/posts)
   * [한재엽 | JBEE.io](https://jbee.io/)
   * [Dan Abramov | overreacted](https://overreacted.io/)
   * [Dominik | TkDodo's blog](https://tkdodo.eu/blog/)

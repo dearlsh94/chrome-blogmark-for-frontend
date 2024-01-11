@@ -2,6 +2,7 @@
 
 ## v1.0.10
 ### Add Blog
+* 테오 | teo (teo.yu) - velog
 * Dan Abramov | overreacted
 * Leerob | Lee Robinson
 * Kent C. Dodds
