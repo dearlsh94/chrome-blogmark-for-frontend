@@ -3,9 +3,8 @@
 ## v1.0.10
 ### Add Blog
 * Dan Abramov | overreacted
-* Kent C. Dodds
 * Leerob | Lee Robinson
-* The Kent C. Dodds Blog
+* Kent C. Dodds
 
 ## v1.0.9
 ### Add Blog
