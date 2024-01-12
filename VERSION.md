@@ -1,5 +1,11 @@
 # Version History
 
+## v1.1.0
+### Modify Directory
+* 개인 블로그의 위치를 2dept에서 1dept로 변경
+* 회사 블로그의 위치를 1dept에서 2dept로 변경
+* 북마크 추가 시 생성되는 폴더 명 'FE 기술 블로그'로 변경
+
 ## v1.0.10
 ### Add Blog
 * 테오 | teo (teo.yu) - velog
