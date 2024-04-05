@@ -1,59 +1,83 @@
 # Version History
 
 ## v1.1.0
-### Modify Directory
+
+**Modify Directory**
+
 * 개인 블로그의 위치를 2dept에서 1dept로 변경
 * 회사 블로그의 위치를 1dept에서 2dept로 변경
 * 북마크 추가 시 생성되는 폴더 명 'FE 기술 블로그'로 변경
 
 ## v1.0.10
-### Add Blog
+
+**Add Blog**
+
 * 테오 | teo (teo.yu) - velog
 * Dan Abramov | overreacted
 * Leerob | Lee Robinson
 * Kent C. Dodds
 
 ## v1.0.9
-### Add Blog
+
+**Add Blog**
+
 * 이동욱 | 기억보단 기록을
 * 인파 | Inpa Dev 👨‍💻
 
 ## v1.0.8
-### Add Blog
+
+**Add Blog**
+
 * 서대영 | Engineering Blog by Dale Seo
 
 ## v1.0.7
-### Add Blog
+
+**Add Blog**
+
 * 변정훈 | Outsider's Dev Story
 
 ## v1.0.6
-### Add Blog
+
+**Add Blog**
+
 * 김용찬 | yceffort
 
 ## v1.0.5
+
 ### Modify Blog
+
 * 개인 블로그 오름차순 순서 적용
 * 개인 블로그 본명 병기
 
 ## v1.0.4
-### Add Blog
+
+**Add Blog**
+
 * Dominik | TkDodo's blog
 * 김종혁 | 김맥스 블로그
 
 ## v1.0.3
-### Add Blog
+
+**Add Blog**
+
 * 이선협 | kciter.so | devlog
 
 ## v1.0.2
-### Add Blog
+
+**Add Blog**
+
 * 정종윤 | 재그지그의 개발 블로그
 
 ## v1.0.1
-### Add Blog
+
+**Add Blog**
+
 * 카카오페이 기술 블로그
 
 ## v1.0.0
-### Add Blog
+
+**Add Blog**
+
 * Naver D2
 * Naver Code
 * 카카오엔터테인먼트 FE 기술 블로그
