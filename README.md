@@ -2,8 +2,6 @@
 
 크롬 브라우저 북마크에 import 가능한 FE 개발자를 위한 기술 블로그 모음입니다.
 
-<br/>
-
 ## 크롬 북마크에 import하는 방법
 
 [공식 가이드](https://support.google.com/chrome/answer/96816?hl=ko)
@@ -14,8 +12,6 @@
 4. [HTML 파일 북마크하기] 선택된 것 확인 후 파일 선택 클릭
 5. `bookmarks-tech.html` 파일 선택
 6. 북마크 > 가져온 북마크 > FE 기술 블로그 추가된 것 확인
-
-<br/>
 
 ## 현재 북마크에 추가된 블로그 목록
 
@@ -42,6 +38,7 @@
 * 회사 블로그
   * [Naver D2](https://d2.naver.com/home)
   * [Naver Code](https://code.naver.com/main/)
+  * [LY Corporation 기술 블로그](https://techblog.lycorp.co.jp/ko)
   * [카카오 Tech](https://tech.kakao.com/)
   * [카카오페이 기술 블로그](https://tech.kakaopay.com/)
   * [카카오엔터테인먼트 FE 기술 블로그](https://fe-developers.kakaoent.com/)
@@ -64,10 +61,8 @@
   * [LinkedIn Engineering Blog](https://engineering.linkedin.com/blog)
   * [Slack Engineering Blog](https://slack.engineering/)
   * [Spotify Engineering Blog](https://engineering.atspotify.com/)
-  
-<br/>
 
 ## Contribute
 
-해당 목록에 추가, 삭제 될 기술 블로그가 있으시거나 기타 요청사항이 있으시다면 PR이나 이슈로 생성 부탁드립니다. <br/>
+해당 목록에 추가, 삭제 될 기술 블로그가 있으시거나 기타 요청사항이 있으시다면 PR이나 이슈로 생성 부탁드립니다.
 PR로 요청 시 북마크 파일은 수정 하셔도 되고, 하지 않으셔도 좋습니다.
