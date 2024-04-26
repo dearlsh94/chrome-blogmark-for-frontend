@@ -68,6 +68,8 @@
   * [Slack Engineering Blog](https://slack.engineering/)
   * [Spotify Engineering Blog](https://engineering.atspotify.com/)
     * [RSS](https://engineering.atspotify.com/feed/)
+  * [Frontendmasters Blog](https://frontendmasters.com/blog/)
+    * [RSS](https://frontendmasters.com/blog/feed/)
 
 ## Contribute
 

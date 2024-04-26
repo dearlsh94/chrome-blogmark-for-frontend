@@ -1,4 +1,11 @@
 # Version History
+
+## v1.1.3
+
+**Add Blog**
+
+* Frontendmasters Blog
+  
 ## v1.1.2
 
 **Features**
