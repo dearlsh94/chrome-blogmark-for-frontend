@@ -1,4 +1,9 @@
 # Version History
+## v1.1.2
+
+**Features**
+
+* RSS 존재하는 블로그 링크 추가
 
 ## v1.1.1
 
